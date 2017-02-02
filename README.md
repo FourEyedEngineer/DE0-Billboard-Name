@@ -8,3 +8,4 @@ To do this I first figured out what each letter would be in binary on the segmen
 counters to time when the word shifts.
 
 GOAL: Make use of all six 7-segment displays on DE0-CV board instead of just 4. 
+TO-DO: Add comments like what the HEX values are in binary.
